@@ -1,0 +1,6 @@
+{
+  "catalog": [],
+  "baseMapName": "http://services.ga.gov.au/site_7/rest/services/Topographic_Base_Map_WM/MapServer/WMTS",
+  "homeCamera":{"north":-8,"east":158,"south":-45,"west":109}
+  "services": []
+}
