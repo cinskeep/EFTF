@@ -7,7 +7,7 @@
         {
 		"name": "Groundwater exploration extents 2017",
 		"type": "kml",
-		"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_extents_2017.kmz",
+		"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
 		"isShown": true,		
         "description": "Exploring for the future groundwater exploration extents 2017."
         }
