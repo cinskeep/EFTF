@@ -8,6 +8,10 @@
     "south": -45
   },
   "services": [
-    "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_extents_2017.kmz"
+    {
+    "name": "Vic Police (KMZ)",
+    "type": "kml",
+    "url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_extents_2017.kmz"
+    }    
   ]
 }
