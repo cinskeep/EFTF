@@ -9,9 +9,9 @@
   },
   "services": [
     {
-    "name": "Vic Police (KMZ)",
+    "name": "Groundwater EFTF Extents 2017",
     "type": "kml",
-    "url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_extents_2017.kmz"
+    "url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz"
     }    
   ]
 }
