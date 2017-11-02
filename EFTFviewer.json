@@ -1,6 +1,13 @@
 {
   "catalog": [],
-  "baseMapName": "Australian Topographic",
-  "homeCamera":{"north":-8,"east":158,"south":-45,"west":109},
-  "services": []
+  "baseMapName": "Austra",
+  "homeCamera": {
+    "west": 109,
+    "east": 158,
+    "north": -8,
+    "south": -45
+  },
+  "services": [
+    "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_extents_2017.kmz"
+  ]
 }
