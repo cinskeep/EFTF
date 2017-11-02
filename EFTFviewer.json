@@ -1,17 +1,24 @@
 {
-  "catalog": [],
-  "baseMapName": "Austra",
+  "catalog": [
+  {
+      "name": "Exploring for the Future Areas",
+      "type": "group",
+      "items": [
+        {
+		"name": "Groundwater exploration extents 2017",
+		"type": "kml",
+		"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
+		"isShown": true,		
+        "description": "Exploring for the future groundwater exploration extents 2017."
+        }
+		]
+	}  
+  ],
+  "baseMapName": "Australia Topography",
   "homeCamera": {
     "west": 109,
     "east": 158,
     "north": -8,
     "south": -45
-  },
-  "services": [
-    {
-    "name": "Groundwater EFTF Extents 2017",
-    "type": "kml",
-    "url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz"
-    }    
-  ]
+  }
 }
