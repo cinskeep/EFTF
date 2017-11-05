@@ -1,57 +1,59 @@
 {
-  "catalog": [
-  {
-      "name": "Exploring for the Future Areas",
-      "type": "group",
-      "items": [
-        {
-		"name": "Groundwater exploration extents 2017",
-		"type": "kml",
-		"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
-		"isShown": true,
-		"opacity": 0.7,
-        "description": "Exploring for the future groundwater exploration extents 2017."
-        },
+	"catalog": [{
+			"name": "Exploring for the Future Areas",
+			"type": "group",
+			"items": [{
+					"name": "Groundwater exploration extents 2017",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future groundwater exploration extents 2017."
+				},
+				{
+					"name": "Minerals Future X Focus Area 2017",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future future X focus area extents 2017."
+				},
+				{
+					"name": "Groundwater Exploring for the Future AEM Extents",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_AEM_extents_20170517.kml",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future future X focus area extents 2017."
+				}
+			]
+		},
 		{
-		"name": "Minerals Future X Focus Area 2017",
-		"type": "kml",
-		"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
-		"isShown": true,
-		"opacity": 0.7,
-        "description": "Exploring for the future future X focus area extents 2017."
-        }
-		]
-	},  
-	{
-      "name": "Australian Geology",
-      "type": "group",
-      "items": [
-        {
-          "name": "Surface Geology",
-          "type": "esri-mapServer",
-          "url": "http://services.ga.gov.au/site_1/rest/services/GA_Surface_Geology/MapServer",
-          "rectangle": [
-            "105.930454436693",
-            "-43.74050960205765",
-            "162.097118856693",
-            "-7.92768801894694"
-          ],
-          "dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)",
-          "info": [
-            {
-              "name": "Licence",
-              "content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
-            }
-          ]
-        }
-		]
-	}  
-  ],
-  "baseMapName": "Australia Topography",
-  "homeCamera": {
-    "west": 109,
-    "east": 158,
-    "north": -8,
-    "south": -45
-  }
+			"name": "Australian Geology",
+			"type": "group",
+			"items": [{
+				"name": "Surface Geology",
+				"type": "esri-mapServer",
+				"url": "http://services.ga.gov.au/site_1/rest/services/GA_Surface_Geology/MapServer",
+				"rectangle": [
+					"105.930454436693",
+					"-43.74050960205765",
+					"162.097118856693",
+					"-7.92768801894694"
+				],
+				"dataCustodian": "[Geoscience Australia](http://www.ga.gov.au/)",
+				"info": [{
+					"name": "Licence",
+					"content": "[Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)"
+				}]
+			}]
+		}
+	],
+	"baseMapName": "Australia Topography",
+	"homeCamera": {
+		"west": 109,
+		"east": 158,
+		"north": -8,
+		"south": -45
+	}
 }
