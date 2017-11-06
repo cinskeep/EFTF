@@ -29,7 +29,7 @@
 				{
 					"name": "OB AEM Survey Flight Lines",
 					"type": "kml",
-					"url": " 	https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/ob_aem_survey_lines.kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/ob_aem_survey_lines.kml",
 					"isShown": true,
 					"opacity": 0.7,
 					"description": "Exploring for the future future X focus area extents 2017."
@@ -37,7 +37,7 @@
 				{
 					"name": "AE LiDAR DEM 5m",
 					"type": "kml",
-					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/AE_LiDAR_5m.kmz",
 					"isShown": true,
 					"opacity": 0.7,
 					"description": "Exploring for the future LiDAR derived 5m DEM"
