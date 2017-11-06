@@ -19,17 +19,17 @@
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
-					"name": "Geophysical Survey Areas EK Tracks Visited to 08 Aug",
+					"name": "Geophysical Survey Areas - Tracks Visited EK Tracks to 08 Aug",
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/EKTracksto08Aug.kml",
 					"isShown": true,
-					"opacity": 1,
+					"opacity": 0.0,
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
-					"name": "Minerals Future X Focus Area 2017",
+					"name": "OB AEM Survey Flight Lines",
 					"type": "kml",
-					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
+					"url": " 	https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/ob_aem_survey_lines.kml",
 					"isShown": true,
 					"opacity": 0.7,
 					"description": "Exploring for the future future X focus area extents 2017."
