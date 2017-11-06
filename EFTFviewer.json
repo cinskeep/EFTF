@@ -23,7 +23,7 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/EKTracksto08Aug.kml",
 					"isShown": true,
-					"opacity": 0.0,
+					"opacity": 1,
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
