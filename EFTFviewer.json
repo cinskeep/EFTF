@@ -19,6 +19,30 @@
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
+					"name": "Geophysical Survey Areas - Tracks Visited EK Tracks to 08 Aug",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/EKTracksto08Aug.kml",
+					"isShown": true,
+					"opacity": 0.0,
+					"description": "Exploring for the future future X focus area extents 2017."
+				},
+				{
+					"name": "Minerals Future X Focus Area 2017",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future future X focus area extents 2017."
+				},
+				{
+					"name": "Minerals Future X Focus Area 2017",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future future X focus area extents 2017."
+				},
+				{
 					"name": "Groundwater Exploring for the Future AEM Extents",
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_AEM_extents_20170517.kml",
