@@ -8,7 +8,7 @@
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
 					"isShown": true,
 					"transparent" : true,
-    					"transparency" : 0.5,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future groundwater exploration extents 2017."
 				},
 				{
@@ -16,7 +16,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_study_extents_20170220.kmz",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future Groundwater_EFTF_study_extents_20170220."
 				},
 				{
@@ -24,7 +25,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
@@ -32,7 +34,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/EKTracksto08Aug.kml",
 					"isShown": true,
-					"opacity": 0.0,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future future X focus area extents 2017."
 				}
 
@@ -46,7 +49,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/AE_LiDAR_5m.kmz",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future LiDAR derived 5m DEM"
 				},
 				{
@@ -54,7 +58,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/ob_aem_survey_lines.kml",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
@@ -62,7 +67,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_AEM_extents_20170517.kml",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    				"transparency" : 0.5,
 					"description": "Exploring for the future future X focus area extents 2017."
 				}
 			]
