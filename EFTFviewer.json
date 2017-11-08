@@ -17,7 +17,8 @@
 					"isShown": true,
 					"opacity": 0.7,
 					"description": "Exploring for the future Groundwater_EFTF_study_extents_20170220."
-				},{
+				},
+				{
 					"name": "Minerals Future X Focus Area 2017",
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Minerals_Future_X_Focus_Area_2017.kmz",
@@ -32,6 +33,20 @@
 					"isShown": true,
 					"opacity": 0.0,
 					"description": "Exploring for the future future X focus area extents 2017."
+				}
+
+			]
+		},
+		{
+			"name": "Airbourne Electromagnetics (AEM)",
+			"type": "group",
+			"items": [{
+					"name": "AE LiDAR DEM 5m",
+					"type": "kml",
+					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/AE_LiDAR_5m.kmz",
+					"isShown": true,
+					"opacity": 0.7,
+					"description": "Exploring for the future LiDAR derived 5m DEM"
 				},
 				{
 					"name": "OB AEM Survey Flight Lines",
@@ -42,21 +57,14 @@
 					"description": "Exploring for the future future X focus area extents 2017."
 				},
 				{
-					"name": "AE LiDAR DEM 5m",
-					"type": "kml",
-					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/AE_LiDAR_5m.kmz",
-					"isShown": true,
-					"opacity": 0.7,
-					"description": "Exploring for the future LiDAR derived 5m DEM"
-				},
-				{
 					"name": "Groundwater Exploring for the Future AEM Extents",
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_AEM_extents_20170517.kml",
 					"isShown": true,
 					"opacity": 0.7,
 					"description": "Exploring for the future future X focus area extents 2017."
-				}]
+				}
+			]
 		},
 		{
 			"name": "Australian Geology",
