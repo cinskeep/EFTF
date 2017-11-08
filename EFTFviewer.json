@@ -7,7 +7,8 @@
 					"type": "kml",
 					"url": "https://s3-ap-southeast-2.amazonaws.com/eftfkmzfiles/Groundwater_EFTF_Extents_2017.kmz",
 					"isShown": true,
-					"opacity": 0.7,
+					"transparent" : true,
+    					"transparency" : 0.5,
 					"description": "Exploring for the future groundwater exploration extents 2017."
 				},
 				{
